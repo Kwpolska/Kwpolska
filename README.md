@@ -1,6 +1,6 @@
 ### $ whoami
 
-I’m Krzysztof — you can call me Chris. I’m a **web developer** from Wrocław, Poland who knows his way around **Django**, and also sometimes does **Vue** (but can also work with other stacks).
+I’m Krzysztof — you can call me Chris. I’m a **web developer** from Wrocław, Poland, writing a lot of C# (but not a lot of it open-source.)
 
 ### Open source stuff
 
