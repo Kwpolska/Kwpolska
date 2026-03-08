@@ -1,6 +1,6 @@
 ### $ whoami
 
-I’m Krzysztof — you can call me Chris. I’m a **web developer** from Wrocław, Poland, writing a lot of C# and React (but not a lot of it open-source.)
+I’m Krzysztof — you can call me Chris. I’m a **full-stack web developer** from Wrocław, Poland, writing a lot of C# and React (but not a lot of it open-source.)
 
 ### Open source stuff
 
@@ -19,8 +19,8 @@ I also write educational posts sometimes. You might be interested in:
 * [Deploying Python Web Applications with Docker](https://chriswarrick.com/blog/2026/02/06/deploying-python-web-applications-with-docker/)
 * [Python Virtual Environments in Five Minutes](https://chriswarrick.com/blog/2018/09/04/python-virtual-environments/)
 * [Python Apps the Right Way: entry points and scripts](https://chriswarrick.com/blog/2014/09/15/python-apps-the-right-way-entry_points-and-scripts/)
+* [I Wrote YetAnotherBlogGenerator](https://chriswarrick.com/blog/2026/02/16/i-wrote-yet-another-blog-generator/) (if you want to be convinced that C# is a great language to code stuff in)
 * …and more, on the [Guides](https://chriswarrick.com/guides/) page of my blog.
-
 
 ### Where to find me
 
